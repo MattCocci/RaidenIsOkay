@@ -1,0 +1,17 @@
+name:           "Susie Thinks Raiden Is Okay"
+description:    "Raiden loves Susie. Susie thinks Raiden is okay."
+
+url:            http://localhost:9001
+
+permalinks:     pretty
+pygments:       true
+
+port:           9001
+baseurl:        /
+encoding:       UTF-8
+layout:         default
+markdown:       kramdown
+
+# My sites
+myPages: 
+  RaidenLovesSusie:    <a href="http://raidenlovessusie.com/" target="_blank">Raiden Loves Susie</a>
