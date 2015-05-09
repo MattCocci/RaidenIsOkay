@@ -10,7 +10,7 @@ But how does Susie feel about Raiden?
 
 Brought to you by the creative teams behind Model 557 and RegYX, both
 DSGE Lindustries and SysuseAuto are proud to present
-{{site.myPages.SusieThinksRaidenIsOkay }}.
+{{ site.myPages.SusieThinksRaidenIsOkay }}.
 
 Congratulations from Henry, Jaya, Max, Silvie, Ravi, and Cocci. We
 couldn't be happier for you, and we wish you all the best.
