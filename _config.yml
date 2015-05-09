@@ -14,4 +14,5 @@ markdown:       kramdown
 
 # My sites
 myPages: 
-  RaidenLovesSusie:    <a href="http://raidenlovessusie.com/" target="_blank">Raiden Loves Susie</a>
+  RaidenLovesSusie:         <a href="http://raidenlovessusie.com/" target="_blank">Raiden Loves Susie</a>
+  SusieThinksRaidenIsOKay:  <a href="http://SusieThinksRaidenIsOKay.com/" target="_blank">Susie Thinks Raiden Is Okay</a>
