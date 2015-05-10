@@ -9,7 +9,7 @@ website. There's photos with Raiden looking lovingly at his bride-to-be.
 But how does Susie feel about Raiden?
 
 Brought to you by the creative teams behind Model 557 and RegYX, both
-DSGE Lindustries and SysuseAuto are proud to present
+DSGE Lindustries and SysuseAuto, Inc. are proud to present
 {{ site.myPages.SusieThinksRaidenIsOkay }}.
 
 To Raiden and Susie, congratulations from Henry, Jaya, Max, Silvie,
