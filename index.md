@@ -2,4 +2,4 @@
 layout: default
 ---
 
-My Page
+rc="/imgs/NotTooClose.jpg" width="540">
