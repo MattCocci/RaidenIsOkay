@@ -10,6 +10,10 @@
 
     <title>{{ site.name }}</title>
 
+    <!-- Javascript toggling -->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+
     <!-- Bootstrap core CSS -->
     <!--<link href="/css/bootstrap.min.css" rel="stylesheet">-->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -37,8 +41,17 @@
     -->
   </head>
 
-  <body>
+  <script>
+    $function() {
+      $('#nav li a').click(function() {
+        $('#nav li').removeClass();
+        $($(this).attr('href')).addClass('active');
+      });
+    });
+  </script>
 
+
+  <body>
   <div class="container">
     <div class="header clearfix">
       <nav>
