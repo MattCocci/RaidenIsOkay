@@ -4,8 +4,8 @@ layout: default
 
 ### This Site
 
-Almost everyone knows {{ site.myPages.RaidenLovesSusie }} (dot com). And
-for those who don't, there's a website with photos of Raiden looking
+Just about everyone knows {{ site.myPages.RaidenLovesSusie }} (dot com).
+And for those who don't, there's a website with photos of Raiden looking
 lovingly at his bride-to-be.  But how does Susie feel about Raiden?
 
 Brought to you by the creative teams behind Model 557 and RegYX, both
