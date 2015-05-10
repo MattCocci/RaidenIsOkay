@@ -2,4 +2,4 @@
 layout: default
 ---
 
-rc="/imgs/NotTooClose.jpg" width="540">
+<img src="/imgs/NotTooClose.jpg" width="540">
